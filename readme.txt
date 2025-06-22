@@ -1,0 +1,8 @@
+## Hey 👋, This is KARA SAVAGE
+[![Gmail Badge](https://img.shields.io/badge/-savage.kara97@outlook.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:savage.kara97@outlook.com)](mailto:savage.kara97@outlook.com) 
+[![Linkedin Badge](https://img.shields.io/badge/-Kara Savage-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/Kara Savage/)](https://www.linkedin.com/in/Kara Savage/) [![Github Badge](https://img.shields.io/badge/-KaraSavage-grey?style=flat&logo=github&logoColor=white&link=https://github.com/KaraSavage/)](https://www.github.com/KaraSavage/) [![Portfolio Badge](https://img.shields.io/badge/portfolio-web-blue?style=flat&link=https://drive.google.com/drive/folders/1dmaIAusPhwFkwlb9Ju2-qpGCfWn5yJLH/)](https://drive.google.com/drive/folders/1dmaIAusPhwFkwlb9Ju2-qpGCfWn5yJLH/) <p align='left'>Business Intelligence Analysis/Specializing In SQL,Paython,Tableau, and Power BI/ I thrive in a fast pace environment transforming complex data.</p><p align='left'> You can view my resume <a href='https://docs.google.com/document/d/1RlCbSkGqrcpseGD-bPKrNn26e1XsResIKn2vwllk9FE/edit?tab=t.0#heading=h.5x0d5h95i329 ' target=_blank><u>here</u>.</a></p>
+## Some of my Github Stats
+<p align=left> <img src=https://komarev.com/ghpvc/?username=KaraSavage alt=KaraSavage /> </p>
+
+[![Github stats](https://github-readme-stats.vercel.app/api?username=KaraSavage&show_icons=true&include_all_commits=true)](https://github.com/KaraSavage/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KaraSavage&layout=compact)](https://github.com/KaraSavage/github-readme-stats)
